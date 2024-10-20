@@ -1,0 +1,127 @@
+Epoch [1/200], Train Loss: 1.0457, Train Accuracy: 0.5532, Val Loss: 0.6629, Val Accuracy: 0.7542, Time Taken: 446.44s
+Epoch [2/200], Train Loss: 0.5943, Train Accuracy: 0.7549, Val Loss: 0.4833, Val Accuracy: 0.8256, Time Taken: 442.38s
+Epoch [3/200], Train Loss: 0.4540, Train Accuracy: 0.8140, Val Loss: 0.3955, Val Accuracy: 0.8487, Time Taken: 415.09s
+Epoch [4/200], Train Loss: 0.4029, Train Accuracy: 0.8382, Val Loss: 0.3544, Val Accuracy: 0.8676, Time Taken: 453.45s
+Epoch [5/200], Train Loss: 0.3667, Train Accuracy: 0.8524, Val Loss: 0.3124, Val Accuracy: 0.8803, Time Taken: 436.46s
+Epoch [6/200], Train Loss: 0.3377, Train Accuracy: 0.8660, Val Loss: 0.3318, Val Accuracy: 0.8718, Time Taken: 373.25s
+Epoch [7/200], Train Loss: 0.3193, Train Accuracy: 0.8813, Val Loss: 0.2548, Val Accuracy: 0.9034, Time Taken: 404.59s
+Epoch [8/200], Train Loss: 0.2884, Train Accuracy: 0.8902, Val Loss: 0.2807, Val Accuracy: 0.8950, Time Taken: 481.16s
+Epoch [9/200], Train Loss: 0.2755, Train Accuracy: 0.8957, Val Loss: 0.2420, Val Accuracy: 0.9118, Time Taken: 498.42s
+Epoch [10/200], Train Loss: 0.2719, Train Accuracy: 0.8970, Val Loss: 0.2453, Val Accuracy: 0.8971, Time Taken: 353.68s
+Epoch [11/200], Train Loss: 0.2635, Train Accuracy: 0.9010, Val Loss: 0.2079, Val Accuracy: 0.9181, Time Taken: 339.19s
+Epoch [12/200], Train Loss: 0.2604, Train Accuracy: 0.9012, Val Loss: 0.2458, Val Accuracy: 0.9160, Time Taken: 360.58s
+Epoch [13/200], Train Loss: 0.2431, Train Accuracy: 0.9078, Val Loss: 0.2171, Val Accuracy: 0.9202, Time Taken: 489.43s
+Epoch [14/200], Train Loss: 0.2313, Train Accuracy: 0.9159, Val Loss: 0.2251, Val Accuracy: 0.9139, Time Taken: 558.71s
+Epoch [15/200], Train Loss: 0.2218, Train Accuracy: 0.9183, Val Loss: 0.1863, Val Accuracy: 0.9349, Time Taken: 507.10s
+Epoch [16/200], Train Loss: 0.2283, Train Accuracy: 0.9123, Val Loss: 0.2131, Val Accuracy: 0.9286, Time Taken: 408.11s
+Epoch [17/200], Train Loss: 0.2361, Train Accuracy: 0.9086, Val Loss: 0.1842, Val Accuracy: 0.9286, Time Taken: 333.75s
+Epoch [18/200], Train Loss: 0.2129, Train Accuracy: 0.9233, Val Loss: 0.2266, Val Accuracy: 0.9076, Time Taken: 329.43s
+Epoch [19/200], Train Loss: 0.2248, Train Accuracy: 0.9162, Val Loss: 0.2148, Val Accuracy: 0.9265, Time Taken: 339.84s
+Epoch [20/200], Train Loss: 0.1980, Train Accuracy: 0.9228, Val Loss: 0.2127, Val Accuracy: 0.9244, Time Taken: 320.46s
+Epoch [21/200], Train Loss: 0.1906, Train Accuracy: 0.9262, Val Loss: 0.2000, Val Accuracy: 0.9265, Time Taken: 307.25s
+Epoch [22/200], Train Loss: 0.2114, Train Accuracy: 0.9207, Val Loss: 0.2527, Val Accuracy: 0.9013, Time Taken: 311.89s
+Epoch [23/200], Train Loss: 0.1921, Train Accuracy: 0.9291, Val Loss: 0.1892, Val Accuracy: 0.9223, Time Taken: 324.49s
+Epoch [24/200], Train Loss: 0.1945, Train Accuracy: 0.9283, Val Loss: 0.1794, Val Accuracy: 0.9349, Time Taken: 331.94s
+Epoch [25/200], Train Loss: 0.1806, Train Accuracy: 0.9317, Val Loss: 0.1786, Val Accuracy: 0.9286, Time Taken: 351.89s
+Epoch [26/200], Train Loss: 0.1840, Train Accuracy: 0.9314, Val Loss: 0.1832, Val Accuracy: 0.9349, Time Taken: 337.68s
+Epoch [27/200], Train Loss: 0.1943, Train Accuracy: 0.9259, Val Loss: 0.1910, Val Accuracy: 0.9265, Time Taken: 380.20s
+Epoch [28/200], Train Loss: 0.1878, Train Accuracy: 0.9286, Val Loss: 0.1724, Val Accuracy: 0.9433, Time Taken: 412.96s
+Epoch [29/200], Train Loss: 0.1873, Train Accuracy: 0.9301, Val Loss: 0.1723, Val Accuracy: 0.9307, Time Taken: 420.63s
+Epoch [30/200], Train Loss: 0.1751, Train Accuracy: 0.9314, Val Loss: 0.1870, Val Accuracy: 0.9349, Time Taken: 535.66s
+Epoch [31/200], Train Loss: 0.1802, Train Accuracy: 0.9346, Val Loss: 0.1981, Val Accuracy: 0.9286, Time Taken: 476.57s
+Epoch [32/200], Train Loss: 0.1717, Train Accuracy: 0.9417, Val Loss: 0.1826, Val Accuracy: 0.9328, Time Taken: 313.42s
+Epoch [33/200], Train Loss: 0.1774, Train Accuracy: 0.9349, Val Loss: 0.1759, Val Accuracy: 0.9307, Time Taken: 431.22s
+Epoch [34/200], Train Loss: 0.1751, Train Accuracy: 0.9341, Val Loss: 0.1637, Val Accuracy: 0.9328, Time Taken: 442.10s
+Epoch [35/200], Train Loss: 0.1708, Train Accuracy: 0.9398, Val Loss: 0.1714, Val Accuracy: 0.9286, Time Taken: 464.12s
+Epoch [36/200], Train Loss: 0.1696, Train Accuracy: 0.9322, Val Loss: 0.1976, Val Accuracy: 0.9286, Time Taken: 392.58s
+Epoch [37/200], Train Loss: 0.1690, Train Accuracy: 0.9380, Val Loss: 0.1847, Val Accuracy: 0.9433, Time Taken: 366.17s
+Epoch [38/200], Train Loss: 0.1503, Train Accuracy: 0.9414, Val Loss: 0.1853, Val Accuracy: 0.9328, Time Taken: 320.53s
+Epoch [39/200], Train Loss: 0.1637, Train Accuracy: 0.9393, Val Loss: 0.1859, Val Accuracy: 0.9328, Time Taken: 320.83s
+Epoch [40/200], Train Loss: 0.1430, Train Accuracy: 0.9446, Val Loss: 0.1815, Val Accuracy: 0.9412, Time Taken: 442.05s
+Epoch [41/200], Train Loss: 0.1600, Train Accuracy: 0.9438, Val Loss: 0.1673, Val Accuracy: 0.9496, Time Taken: 407.67s
+Epoch [42/200], Train Loss: 0.1564, Train Accuracy: 0.9427, Val Loss: 0.1721, Val Accuracy: 0.9475, Time Taken: 361.28s
+Epoch [43/200], Train Loss: 0.1644, Train Accuracy: 0.9406, Val Loss: 0.1747, Val Accuracy: 0.9454, Time Taken: 342.50s
+Epoch [44/200], Train Loss: 0.1664, Train Accuracy: 0.9419, Val Loss: 0.1255, Val Accuracy: 0.9538, Time Taken: 389.05s
+Epoch [45/200], Train Loss: 0.1666, Train Accuracy: 0.9409, Val Loss: 0.1847, Val Accuracy: 0.9118, Time Taken: 419.08s
+Epoch [46/200], Train Loss: 0.1487, Train Accuracy: 0.9475, Val Loss: 0.1559, Val Accuracy: 0.9412, Time Taken: 366.72s
+Epoch [47/200], Train Loss: 0.1569, Train Accuracy: 0.9459, Val Loss: 0.1312, Val Accuracy: 0.9517, Time Taken: 368.75s
+Epoch [48/200], Train Loss: 0.1503, Train Accuracy: 0.9464, Val Loss: 0.1718, Val Accuracy: 0.9433, Time Taken: 384.63s
+Epoch [49/200], Train Loss: 0.1425, Train Accuracy: 0.9498, Val Loss: 0.1647, Val Accuracy: 0.9391, Time Taken: 384.88s
+Epoch [50/200], Train Loss: 0.1426, Train Accuracy: 0.9559, Val Loss: 0.1301, Val Accuracy: 0.9559, Time Taken: 399.59s
+Epoch [51/200], Train Loss: 0.1434, Train Accuracy: 0.9483, Val Loss: 0.1781, Val Accuracy: 0.9223, Time Taken: 383.44s
+Epoch [52/200], Train Loss: 0.1500, Train Accuracy: 0.9459, Val Loss: 0.1585, Val Accuracy: 0.9433, Time Taken: 424.40s
+Epoch [53/200], Train Loss: 0.1382, Train Accuracy: 0.9488, Val Loss: 0.1663, Val Accuracy: 0.9517, Time Taken: 530.27s
+Epoch [54/200], Train Loss: 0.1347, Train Accuracy: 0.9546, Val Loss: 0.1325, Val Accuracy: 0.9559, Time Taken: 326.83s
+Epoch [55/200], Train Loss: 0.1474, Train Accuracy: 0.9443, Val Loss: 0.1666, Val Accuracy: 0.9412, Time Taken: 375.15s
+Epoch [56/200], Train Loss: 0.1513, Train Accuracy: 0.9467, Val Loss: 0.1420, Val Accuracy: 0.9412, Time Taken: 364.02s
+Epoch [57/200], Train Loss: 0.1415, Train Accuracy: 0.9519, Val Loss: 0.1510, Val Accuracy: 0.9475, Time Taken: 357.87s
+Epoch [58/200], Train Loss: 0.1503, Train Accuracy: 0.9490, Val Loss: 0.1439, Val Accuracy: 0.9349, Time Taken: 350.87s
+Epoch [59/200], Train Loss: 0.1439, Train Accuracy: 0.9477, Val Loss: 0.1391, Val Accuracy: 0.9475, Time Taken: 364.25s
+Epoch [60/200], Train Loss: 0.1439, Train Accuracy: 0.9480, Val Loss: 0.1854, Val Accuracy: 0.9286, Time Taken: 433.67s
+Epoch [61/200], Train Loss: 0.1308, Train Accuracy: 0.9527, Val Loss: 0.1040, Val Accuracy: 0.9601, Time Taken: 447.46s
+Epoch [62/200], Train Loss: 0.1358, Train Accuracy: 0.9490, Val Loss: 0.1692, Val Accuracy: 0.9433, Time Taken: 381.30s
+Epoch [63/200], Train Loss: 0.1335, Train Accuracy: 0.9506, Val Loss: 0.1704, Val Accuracy: 0.9412, Time Taken: 387.36s
+Epoch [64/200], Train Loss: 0.1240, Train Accuracy: 0.9527, Val Loss: 0.1510, Val Accuracy: 0.9454, Time Taken: 407.81s
+Epoch [65/200], Train Loss: 0.1374, Train Accuracy: 0.9501, Val Loss: 0.1474, Val Accuracy: 0.9412, Time Taken: 376.76s
+Epoch [66/200], Train Loss: 0.1267, Train Accuracy: 0.9535, Val Loss: 0.1725, Val Accuracy: 0.9412, Time Taken: 467.66s
+Epoch [67/200], Train Loss: 0.1278, Train Accuracy: 0.9514, Val Loss: 0.1322, Val Accuracy: 0.9475, Time Taken: 356.29s
+Epoch [68/200], Train Loss: 0.1227, Train Accuracy: 0.9546, Val Loss: 0.1489, Val Accuracy: 0.9454, Time Taken: 329.62s
+Epoch [69/200], Train Loss: 0.1252, Train Accuracy: 0.9580, Val Loss: 0.1748, Val Accuracy: 0.9370, Time Taken: 310.18s
+Epoch [70/200], Train Loss: 0.1255, Train Accuracy: 0.9540, Val Loss: 0.1530, Val Accuracy: 0.9454, Time Taken: 291.20s
+Epoch [71/200], Train Loss: 0.1283, Train Accuracy: 0.9525, Val Loss: 0.1902, Val Accuracy: 0.9370, Time Taken: 330.45s
+Epoch [72/200], Train Loss: 0.1444, Train Accuracy: 0.9483, Val Loss: 0.1490, Val Accuracy: 0.9454, Time Taken: 348.20s
+Epoch [73/200], Train Loss: 0.1171, Train Accuracy: 0.9553, Val Loss: 0.1662, Val Accuracy: 0.9433, Time Taken: 327.47s
+Epoch [74/200], Train Loss: 0.1222, Train Accuracy: 0.9561, Val Loss: 0.1675, Val Accuracy: 0.9370, Time Taken: 366.34s
+Epoch [75/200], Train Loss: 0.1280, Train Accuracy: 0.9572, Val Loss: 0.1412, Val Accuracy: 0.9433, Time Taken: 357.30s
+Epoch [76/200], Train Loss: 0.1289, Train Accuracy: 0.9527, Val Loss: 0.1773, Val Accuracy: 0.9412, Time Taken: 426.33s
+Epoch [77/200], Train Loss: 0.1385, Train Accuracy: 0.9485, Val Loss: 0.1334, Val Accuracy: 0.9601, Time Taken: 448.17s
+Epoch [78/200], Train Loss: 0.1327, Train Accuracy: 0.9519, Val Loss: 0.1514, Val Accuracy: 0.9433, Time Taken: 401.46s
+Epoch [79/200], Train Loss: 0.1206, Train Accuracy: 0.9577, Val Loss: 0.1394, Val Accuracy: 0.9475, Time Taken: 386.98s
+Epoch [80/200], Train Loss: 0.1385, Train Accuracy: 0.9517, Val Loss: 0.1714, Val Accuracy: 0.9370, Time Taken: 392.18s
+Epoch [81/200], Train Loss: 0.1157, Train Accuracy: 0.9561, Val Loss: 0.1403, Val Accuracy: 0.9517, Time Taken: 364.61s
+Early stopping triggered!
+Smoothed loss curve saved to plots/loss_curve_smoothed.png
+Smoothed accuracy curve saved to plots/accuracy_curve_smoothed.png
+Confusion Matrix curve saved to plots/confusion_matrix_curve.png
+Training completed.
+
+======== GPU REPORT ========
+
+==============NVSMI LOG==============
+
+Timestamp                                 : Sat Sep 28 15:43:35 2024
+Driver Version                            : 535.183.06
+CUDA Version                              : 12.2
+
+Attached GPUs                             : 1
+GPU 00000000:A4:00.0
+    Accounting Mode                       : Enabled
+    Accounting Mode Buffer Size           : 4000
+    Accounted Processes
+        Process ID                        : 1847936
+            GPU Utilization               : 13 %
+            Memory Utilization            : 10 %
+            Max memory usage              : 11680 MiB
+            Time                          : 31648061 ms
+            Is Running                    : 0
+
+Sat Sep 28 15:43:35 2024       
++---------------------------------------------------------------------------------------+
+| NVIDIA-SMI 535.183.06             Driver Version: 535.183.06   CUDA Version: 12.2     |
+|-----------------------------------------+----------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |         Memory-Usage | GPU-Util  Compute M. |
+|                                         |                      |               MIG M. |
+|=========================================+======================+======================|
+|   0  Quadro RTX 8000                On  | 00000000:A4:00.0 Off |                    0 |
+| 33%   41C    P2              87W / 260W |      1MiB / 46080MiB |     53%      Default |
+|                                         |                      |                  N/A |
++-----------------------------------------+----------------------+----------------------+
+                                                                                         
++---------------------------------------------------------------------------------------+
+| Processes:                                                                            |
+|  GPU   GI   CI        PID   Type   Process name                            GPU Memory |
+|        ID   ID                                                             Usage      |
+|=======================================================================================|
+|  No running processes found                                                           |
++---------------------------------------------------------------------------------------+
