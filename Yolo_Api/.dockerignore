@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+runs/
+api_json.py
+app_json.py

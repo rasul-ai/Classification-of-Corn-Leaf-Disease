@@ -1,0 +1,72 @@
+/* styles.css */
+
+body {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 80%; /* Adjusted width */
+    max-width: 1200px; /* Adjusted maximum width */
+    background: rgb(161, 154, 154);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin: 20px auto; /* Centering the container */
+}
+
+h1 {
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.error-message {
+    color: red;
+    margin-bottom: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.custom-file-upload {
+    display: inline-block;
+    cursor: pointer;
+    font-size: 16px;
+    margin-bottom: 10px; /* Adjusted margin */
+}
+
+.custom-file-upload input[type="file"] {
+    display: none;
+}
+
+.button-style {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 15px 25px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.button-style:hover {
+    background-color: #218838;
+}
+
+.button-style:active {
+    background-color: #1e7e34;
+}
+
+.file-name {
+    margin-bottom: 20px; /* Adjusted margin */
+    font-size: 16px;
+    color: #333;
+}
